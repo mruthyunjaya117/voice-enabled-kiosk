@@ -1,0 +1,815 @@
+text,label,action
+add 5 kg of Biscuits,ham,add
+play music,spam,play
+add 2 litres of milk,ham,add
+who is prime minister,spam,none
+remove 1kg of fruits,ham,remove
+how was politics in india,spam,none
+add 2 packets of biscuits to inventory,ham,add
+remove 5 kg of wheat in food,ham,remove
+add 5kg of sugar in food category,ham,add
+what is whether today,spam,none
+add 4 kg biscuits in food category,ham,add
+what is the gdp of India,spam,none
+add 2 kg bread in food category,ham,add
+where is nearby petrol station,spam,none
+add 2 liter of milk in food category,ham,add
+how to learn datascience,spam,none
+add 2 kg bread in food category,ham,add
+add 4 kg sweets in food category,ham,add
+what was gold price today,spam,none
+what is the highest rated imdb movie,spam,none
+please sing a song for me,spam,sing
+please add me to your facebook account,spam,add
+show me what is there in inventory,ham,show
+display exisitng items in inventory,ham,display
+what do you offer for me,ham,offer
+please add me to your twitter account,spam,add
+provide exisitng items in inventory,ham,provide
+return the exisitng items in inventory,ham,return
+subtract 2 kg of Sandwich from inventory,ham,subtract
+add 4 kg detergent to stocks,ham,add
+what is the climate now,spam,none
+add 2 kg salt in food category,ham,add
+add 2 packets of milk in food category,ham,add
+add 2 liter of softdrinks in food category,ham,add
+add 2 bottles of softdrinks in food category,ham,add
+when is the schedule of bengaluru flight,spam,none
+what is your name,spam,none
+schedule a trip to maldives,spam,none
+what is the latest mobile phone,spam,none
+how old are you,spam,none
+who am I,spam,none
+can you show latest google trends,spam,none
+push 2 kg of Biscuits to the inventory,ham,push
+add 2 kg of detergent to the inventory,ham,add
+add 2 packets of detergent to the inventory,ham,add
+display the current items in inventory,ham,display
+get the existing items in inventory,ham,get
+remove 2 kg of Sandwich from inventory,ham,remove
+what is the dollar price today,spam,none
+play video in youtube,spam,play
+please sing a poem for me,spam,sing
+offer current snapshot of inventory,ham,offer
+provide exisitng items in inventory,ham,provide
+get the existing items in inventory,ham,get
+show me what is there in inventory,ham,show
+push 2 kg of Wheat to the inventory,ham,push
+return the exisitng items in inventory,ham,return
+subtract 60 kg of Fruits from inventory,ham,subtract
+what is the dollar price today,spam,none
+play video in youtube,spam,play
+please sing a poem for me,spam,sing
+offer current snapshot of inventory,ham,offer
+provide exisitng items in inventory,ham,provide
+get the existing items in inventory,ham,get
+show me what is there in inventory,ham,show
+push 2 kg of Wheat to the inventory,ham,push
+return the exisitng items in inventory,ham,return
+subtract 20 kg of Fruits from inventory,ham,subtract
+add 5 kg of Biscuits,ham,add
+play music,spam,play
+add 2 litres of milk,ham,add
+who is prime minister,spam,none
+remove 1kg of fruits,ham,remove
+how was politics in india,spam,none
+add 2 units of fruits to inventory,ham,add
+remove 5 kg of wheat in food,ham,remove
+add 5 packets of sugar in food category,ham,add
+what is whether today,spam,none
+add 4 kg biscuits in food category,ham,add
+what is the gdp of India,spam,none
+add 2 kg of fruits in food category,ham,add
+where is nearby petrol station,spam,none
+add 2 liter of milk in food category,ham,add
+how to learn datascience,spam,none
+add 2 packets of bread in food category,ham,add
+add 4 kg sweets in food category,ham,add
+what was gold price today,spam,none
+what is the highest rated imdb movie,spam,none
+please sing a song for me,spam,sing
+please add me to your facebook account,spam,add
+show me what is there in inventory,ham,show
+display exisitng items in inventory,ham,display
+what do you offer for me,ham,offer
+please add me to your twitter account,spam,add
+provide exisitng items in inventory,ham,provide
+return the exisitng items in inventory,ham,return
+subtract 2 kg of Sandwich from inventory,ham,subtract
+add 4 kg detergent to inventory,ham,add
+what is the climate now,spam,none
+add 2 packets of salt in food category,ham,add
+add 2 packets of milk in food category,ham,add
+add 2 liter of softdrinks in food category,ham,add
+add 2 bottles of softdrinks in food category,ham,add
+when is the schedule of bengaluru flight,spam,none
+what is your name,spam,none
+schedule a trip to maldives,spam,none
+what is the latest mobile phone,spam,none
+how old are you,spam,none
+who am I,spam,none
+can you show latest google trends,spam,none
+push 2 kg of Biscuits to the inventory,ham,push
+add 2 kg of detergent to the inventory,ham,add
+add 2 packets of detergent to the inventory,ham,add
+display the current items in inventory,ham,display
+get the existing items in inventory,ham,get
+remove 2 kg of Sandwich from inventory,ham,remove
+what is the dollar price today,spam,none
+play video in youtube,spam,play
+please sing a poem for me,spam,sing
+offer current snapshot of inventory,ham,offer
+provide exisitng items in inventory,ham,provide
+get the existing items in inventory,ham,get
+show me what is there in inventory,ham,show
+push 2 kg of Wheat to the inventory,ham,push
+return the exisitng items in inventory,ham,return
+subtract 20 kg of Fruits from inventory,ham,subtract
+what is the dollar price today,spam,none
+play video in youtube,spam,play
+please sing a poem for me,spam,sing
+offer current snapshot of inventory,ham,offer
+provide exisitng items in inventory,ham,provide
+get the existing items in inventory,ham,get
+show me what is there in inventory,ham,show
+push 2 kg of Wheat to the inventory,ham,push
+return the exisitng items in inventory,ham,return
+subtract 10 kg of Fruits from inventory,ham,subtract
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+provide exisitng items in inventory,ham,provide
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+display the current items in inventory,ham,display
+please sing a poem for me,spam,sing
+please sing a poem for me,spam,sing
+please sing a poem for me,spam,sing
+please sing a poem for me,spam,sing
+please sing a poem for me,spam,sing
+please sing a poem for me,spam,sing
+please sing a poem for me,spam,sing
+please sing a poem for me,spam,sing
+please sing a poem for me,spam,sing
+please sing a poem for me,spam,sing
+please sing a poem for me,spam,sing
+please sing a poem for me,spam,sing
+please sing a poem for me,spam,sing
+please sing a poem for me,spam,sing
+please sing a poem for me,spam,sing
+please sing a poem for me,spam,sing
+sing a song for me,spam,sing
+sing a song for me,spam,sing
+sing a song for me,spam,sing
+sing a song for me,spam,sing
+sing a song for me,spam,sing
+sing a song for me,spam,sing
+sing a song for me,spam,sing
+sing a song for me,spam,sing
+sing a song for me,spam,sing
+sing a song for me,spam,sing
+sing a song for me,spam,sing
+sing a song for me,spam,sing
+sing a song for me,spam,sing
+sing a song for me,spam,sing
+sing a song for me,spam,sing
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+what do you offer for me,ham,offer
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+get the existing items in inventory,ham,get
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+show me what is there in inventory,ham,show
+subtract 15 kg of Fruits from inventory,ham,subtract
+subtract 20 kg of Sandwich from inventory,ham,subtract
+subtract 25 kg of Fruits from inventory,ham,subtract
+subtract 20 kg of sandwich from inventory,ham,subtract
+subtract 50 kg of Sugar from inventory,ham,subtract
+subtract 20 kg of Wheat from inventory,ham,subtract
+subtract 62 kg of Fruits from inventory,ham,subtract
+subtract 40 kg of Fruits from inventory,ham,subtract
+subtract 20 kg of Salt from inventory,ham,subtract
+subtract 22 kg of Fruits from inventory,ham,subtract
+subtract 23 kg of Fruits from inventory,ham,subtract
+subtract 20 kg of bread from inventory,ham,subtract
+subtract 19 kg of Fruits from inventory,ham,subtract
+subtract 65 kg of Fruits from inventory,ham,subtract
+subtract 20 kg of Biscuits from inventory,ham,subtract
+subtract 20 kg of wheat from inventory,ham,subtract
+subtract 14 kg of fruits from inventory,ham,subtract
+subtract 20 kg of biscuits from inventory,ham,subtract
+subtract 16 kg of Fruits from inventory,ham,subtract
+subtract 20 kg of Fruits from inventory,ham,subtract
+subtract 20 kg of Fruits from inventory,ham,subtract
+subtract 17 kg of bread from inventory,ham,subtract
+subtract 20 kg of detergent from inventory,ham,subtract
+subtract 20 kg of Fruits from inventory,ham,subtract
+subtract 21 kg of bread from inventory,ham,subtract
+subtract 20 kg of Fruits from inventory,ham,subtract
+subtract 20 kg of biscuits from inventory,ham,subtract
+subtract 5 kg of Fruits from inventory,ham,subtract
+subtract 30 kg of bread from inventory,ham,subtract
+subtract 4 kg of Fruits from inventory,ham,subtract
+subtract 10 kg of Fruits from inventory,ham,subtract
+subtract 20 kg of Fruits from inventory,ham,subtract
+subtract 8 kg of Fruits from inventory,ham,subtract
+subtract 20 kg of Fruits from inventory,ham,subtract
+subtract 4 kg of Fruits from inventory,ham,subtract
+subtract 12 kg of bread from inventory,ham,subtract
+subtract 20 kg of Fruits from inventory,ham,subtract
+subtract 32 kg of Fruits from inventory,ham,subtract
+subtract 2 kg of Salt from inventory,ham,subtract
+play video in youtube online,spam,play
+play video in youtube instagram,spam,play
+play reels in youtube,spam,play
+play video in youtube,spam,play
+please play video in youtube,spam,play
+play video in youtube,spam,play
+please play video in web,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in twitter,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+play video in youtube,spam,play
+please return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+can you return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+return the exisitng items in inventory,ham,return
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of wheat from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of sugar from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of salt from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of sugar from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of salt from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of wheat from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of biscuits from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+remove 2 kg of Sandwich from inventory,ham,remove
+give 13 kg of sugar from inventory,ham,give
+give 3 kg of salt from inventory,ham,give
+give 3 kg of wheat from inventory,ham,give
+give 3 kg of biscuits from inventory,ham,give
+give 3 kg of Sandwich from inventory,ham,give
+give 21 kg of Sandwich from inventory,ham,give
+give 23 kg of fruits from inventory,ham,give
+give 3 kg of detergent from inventory,ham,give
+give 41 kg of Sandwich from inventory,ham,give
+give 10 kg of Sandwich from inventory,ham,give
+give 3 kg of bread from inventory,ham,give
+give 3 kg of sweets from inventory,ham,give
+give 33 kg of Sandwich from inventory,ham,give
+give 3 kg of fruits from inventory,ham,give
+give 3 kg of wheat from inventory,ham,give
+give 3 kg of Sandwich from inventory,ham,give
+give 3 kg of bread from inventory,ham,give
+give 3 kg of Sandwich from inventory,ham,give
+give 3 kg of Sugar from inventory,ham,give
+give 3 kg of Sandwich from inventory,ham,give
+give 43 kg of biscuits from inventory,ham,give
+give 3 kg of Fruits from inventory,ham,give
+give 63 kg of Sandwich from inventory,ham,give
+give 3 kg of Sandwich from inventory,ham,give
+give 12 kg of bread from inventory,ham,give
+give 3 kg of Sandwich from inventory,ham,give
+give 31 kg of salt from inventory,ham,give
+give 3 kg of Sandwich from inventory,ham,give
+give 3 kg of Sandwich from inventory,ham,give
+give 3 kg of wheat from inventory,ham,give
+give 3 kg of Sandwich from inventory,ham,give
+give 14 kg of sugar from inventory,ham,give
+give 3 kg of Sandwich from inventory,ham,give
+give 3 kg of sugar from inventory,ham,give
+give 3 kg of fruits from inventory,ham,give
+give 3 kg of Sandwich from inventory,ham,give
+give 3 kg of salt from inventory,ham,give
+give 3 kg of Sandwich from inventory,ham,give
+give 3 kg of salt from inventory,ham,give
+give 3 kg of Sandwich from inventory,ham,give
+give 3 kg of bread from inventory,ham,give
+give 3 kg of Sandwich from inventory,ham,give
+give 3 kg of fruits from inventory,ham,give
+give 3 kg of Sandwich from inventory,ham,give
+give 3 kg of salt from inventory,ham,give
+give 3 kg of Sandwich from inventory,ham,give
+give 3 kg of bread from inventory,ham,give
+give 3 kg of Sandwich from inventory,ham,give
+give 3 kg of detergent from inventory,ham,give
+give 3 kg of Sandwich from inventory,ham,give
+give 3 kg of wheat from inventory,ham,give
+give 3 kg of Sandwich from inventory,ham,give
+give 3 kg of biscuits from inventory,ham,give
+give 3 kg of Sandwich from inventory,ham,give
+update 5 kg salt in the inventory,ham,update
+update 5 kg sugar in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 15 kg Wheat in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg sugar in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg wheat in the inventory,ham,update
+update 5 kg sugar in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg fruits in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg bread in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg detergent in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg wheat in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg bread in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg fruits in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg wheat in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg wheat in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg salt in the inventory,ham,update
+update 5 kg wheat in the inventory,ham,update
+update 5 kg sugar in the inventory,ham,update
+update 5 kg fruits in the inventory,ham,update
+add 2 kg of salt to inventory,ham,add
+add 2 kg of sandwich to food category,ham,add
+add 2 kg of salt to inventory,ham,add
+add 2 kg of salt to food category,ham,add
+add 4 packets of detergent to inventory,ham,add
+add 2 kg of salt to inventory,ham,add
+add 20 packets of salt to inventory,ham,add
+add 2 kg fruits to inventory,ham,add
+add 2 kg of salt to inventory,ham,add
+add 2 packets of bread to inventory,ham,add
+add 5 kg of salt to inventory,ham,add
+add 2 liter of milk to inventory,ham,add
+add 2 kg of sugar to food category,ham,add
+add 2 kg of wheat to inventory,ham,add
+add 2 liter of milk to inventory,ham,add
+add 2 packets of wheat to inventory,ham,add
+add 2 kg of biscuits to food category,ham,add
+add 2 kg of salt to inventory,ham,add
+add 2 liter of softdrinks to inventory,ham,add
+add 2 packets of sugar to food category,ham,add
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+who am I,spam,none
+dispense 13 kg of sugar from inventory,ham,dispense
+dispense 3 kg of salt from inventory,ham,dispense
+dispense 3 kg of wheat from inventory,ham,dispense
+dispense 3 kg of biscuits from inventory,ham,dispense
+dispense 3 kg of Sandwich from inventory,ham,dispense
+dispense 21 kg of Sandwich from inventory,ham,dispense
+dispense 23 kg of fruits from inventory,ham,dispense
+dispense 3 kg of detergent from inventory,ham,dispense
+dispense 41 kg of Sandwich from inventory,ham,dispense
+dispense 10 kg of Sandwich from inventory,ham,dispense
+dispense 3 kg of bread from inventory,ham,dispense
+dispense 3 kg of sweets from inventory,ham,dispense
+dispense 33 kg of Sandwich from inventory,ham,dispense
+dispense 3 kg of fruits from inventory,ham,dispense
+dispense 3 kg of wheat from inventory,ham,dispense
+dispense 3 kg of Sandwich from inventory,ham,dispense
+dispense 3 kg of bread from inventory,ham,dispense
+dispense 3 kg of Sandwich from inventory,ham,dispense
+dispense 3 kg of Sugar from inventory,ham,dispense
+dispense 3 kg of Sandwich from inventory,ham,dispense
+dispense 43 kg of biscuits from inventory,ham,dispense
+dispense 3 kg of Fruits from inventory,ham,dispense
+dispense 63 kg of Sandwich from inventory,ham,dispense
+dispense 3 kg of Sandwich from inventory,ham,dispense
+dispense 12 kg of bread from inventory,ham,dispense
+dispense 3 kg of Sandwich from inventory,ham,dispense
+dispense 31 kg of salt from inventory,ham,dispense
+dispense 3 kg of Sandwich from inventory,ham,dispense
+dispense 3 kg of Sandwich from inventory,ham,dispense
+dispense 3 kg of wheat from inventory,ham,dispense
+give 3 kg of Sandwich from inventory,ham,dispense
